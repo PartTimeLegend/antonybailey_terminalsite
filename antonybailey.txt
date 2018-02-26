@@ -1,0 +1,18 @@
+<span id="a">antony@webserver</span>:<span id="b">~</span><span id="c">#</span> cat antonybailey.txt<br/><br/>
+<p>Hi, I'm Antony Bailey.</p>
+<!-- waitasecondorthree -->
+<!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>I am a <b>DevOps and Security Consultant</b> with over 15 years of experience working both independently and as part of a multi faceted team. With a real passion for developing new systems and enhancing existing. I am an excellent communicator and work with others to achieve goals to deadlines and within budget. </p>
+<!-- whyareyoulookingatmycode? -->
+<p>Holding a Green Belt in Six Sigma methodologies along with working in an AGILE development environment.</p>
+<p>I have been an active staff member of several development and IT related online fora including HotScripts.com.</p>
+<!-- itsrudetolookunderthesurface -->
+<p>In addition to this I have also contributed to various open source projects.</p>
+<p>If you have it, I will make it run. If you need it building, I will build it, and make it run.</p>
+<!-- iguessthisisarealqndwaytodothings -->
+<p>I'm always open to new engagements, so please get in touch.</p>
+<p>My email address is: <a href="mailto:hi@antonybailey.net">hi@antonybailey.net</a> <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x9C02D726E567EF8B">(PGP)</a>, and my phone number is: <a href="tel:+447412221242">+447412221242</a>.</p>
+<!-- Now for the Social Media stuff. Can't forget that. -->
+<p>You can also find me on <a href="https://www.github.com/parttimelegend">GitHub</a>, <a href="http://twitter.com/parttimelegend">Twitter</a>, <a href="https://www.facebook.com/the.antony.bailey">Facebook</a>, <a href="https://www.linkedin.com/in/antonybailey/">LinkedIn</a>, <a href="https://www.reddit.com/user/parttimelegend">reddit</a>, and even <a href="https://www.imdb.com/name/nm6422510/">IMDb</a>. 
+<!-- Better have a copyright footer -->
+<p>&copy; 2018 Antony Bailey - <a href="https://creativecommons.org/licenses/by/4.0/">Some Rights Reserved</a>.</p>
